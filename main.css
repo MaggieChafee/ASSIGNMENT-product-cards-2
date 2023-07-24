@@ -16,6 +16,13 @@ body {
   padding: 15px;
   text-align: center;
 }
+.card-img-top {
+  padding: 10px;
+  border-radius: 50px;
+}
+.prod-inv {
+  padding-bottom: 5px;
+}
 header {
   border-style: solid;
   border-color: lightblue;
@@ -28,6 +35,7 @@ header {
 #specs {
   font-weight: bold;
 }
-#price {
+.prod-price {
   font-weight: bold;
+  background-color: lightblue;
 }
